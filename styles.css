@@ -1,6 +1,18 @@
 #4_170 { 
 	overflow:hidden;
 }
+
+
+.buttons {
+	text-decoration: none;
+	color: dodgerblue;
+}
+
+.buttons1 {
+	text-decoration: none;
+	color: ghostwhite;
+}
+
 #e4_170 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:1680px;
