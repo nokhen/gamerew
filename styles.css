@@ -1,3 +1,7 @@
+.body {
+	overflow-x: hidden;
+}
+
 #4_170 { 
 	overflow:hidden;
 }
